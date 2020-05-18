@@ -1,0 +1,2 @@
+rootProject.name='Transition2'
+include ':app'
